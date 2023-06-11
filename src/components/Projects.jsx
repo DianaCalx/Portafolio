@@ -100,7 +100,7 @@ const Projects = () => {
             <a href='https://github.com/DianaCalx/frontend-dogs-game' target="_blank">Link Repo FrontEnd</a>
             <a href='https://github.com/DianaCalx/backend-dogs-game' target="_blank">Link Repo Backend</a>
           </Repos>
-          <a href='https://startling-kelpie-2d1fb9.netlify.app/' target="_blank">
+          <a href='https://dogs-game.netlify.app/' target="_blank">
             <Image src={DogsGame} alt='Dogs Game' />
           </a>
           <TechContainer>
