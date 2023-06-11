@@ -82,7 +82,7 @@ const About = () => {
     <AboutDetail>
       <AboutName>Hello I'm <span>Diana Calderón</span></AboutName>
       <AboutDescription>
-        I'm a Computer Science Engineer, I specialized in the area of computer networks but I have always been passionate about programming, which is why I currently work as a FrontEnd Programmer, and I have had the opportunity to develop many projects with many technologies that I will show you below I hope you like them as much as I do.
+        I'm a Computer Science Engineer, I specialized in the area of computer networks but I have always been passionate about programming, which is why I currently work as a FrontEnd Programmer, and I have had the opportunity to develop many projects with differents technologies that I will show you below, I hope you like them as much as I do.
       </AboutDescription>
       <AboutImagesContainer>
         <a href="mailto:calderon.calx@gmail.com" target="_blank"><CustomSVG svg={EmailLogo} alt="Email Logo" /></a>
