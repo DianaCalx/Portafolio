@@ -132,7 +132,7 @@ const Projects = () => {
         <Repos>
           <a href='https://github.com/DianaCalx/Marvel' target="_blank">Link Repo FrontEnd</a>
         </Repos>
-        <a href='https://6485f80ece3df7340388fe9a--silver-fenglisu-caa710.netlify.app/' target="_blank">
+        <a href='https://648b476afd00b226c5e58652--silver-fenglisu-caa710.netlify.app/' target="_blank">
           <Image src={Marvel} alt='Marvel' />
         </a>
         <TechContainer>
